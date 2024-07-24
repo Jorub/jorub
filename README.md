@@ -18,7 +18,7 @@ Here are some of my recent publications:
 
 ## Let's Connect!
 
-- Twitter: [@jr_bloecher](https://twitter.com/J_R_Thomson)
-- ResearchGate: [Johanna R Blöcher](https://www.researchgate.net/profile/Johanna-Thomson)
+- Twitter: [@jr_thomson](https://twitter.com/J_R_Thomson)
+- ResearchGate: [Johanna R Thomson](https://www.researchgate.net/profile/Johanna-Thomson)
 
 Feel free to reach out if you're interested in collaborative research, discussions about soil physics, hydrology, or data analysis methodologies. Let's explore the wonders of science together! 🌱🔬💧
