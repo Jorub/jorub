@@ -1,39 +1,49 @@
 # Johanna R. Thomson
 
-Environmental scientist working at the intersection of hydrology, climate data analysis, and environmental modeling.
+I am an environmental modeller who has developed into a hydroclimate data scientist. My research combines process-based understanding with large-scale data analysis to evaluate evapotranspiration and precipitation datasets, quantify uncertainty, and build reproducible environmental research workflows.
 
-In my current postdoctoral research, I work on the analysis and evaluation of large-scale climate and hydrological datasets, with a focus on uncertainty assessment, reproducible scientific workflows, and terrestrial water cycle dynamics.
-
-Current research interests include hydroclimatic change, especially evapotranspiration, dataset comparison, and environmental data infrastructure for reproducible Earth system research.
+I currently work as a postdoctoral researcher on terrestrial water-cycle dynamics, hydroclimatic change, dataset comparison, and open environmental data infrastructure.
 
 ## News
 
-Open to research, scientific software, and environmental data science opportunities in Germany, particularly in hydrology, climate analytics, environmental modeling, and reproducible scientific computing. I am also interested in applying reproducible R-based data science, statistical validation, and uncertainty-aware analysis to real-world decision contexts beyond environmental research.
+### EGU General Assembly 2027 · Session HS3.8
 
-## Research and Publications
+I am co-convening **Precipitation and Evapotranspiration Datasets for Hydrological Studies: Development, Evaluation, and Applications** at EGU27. We welcome contributions on dataset development, benchmarking, uncertainty, integration, and hydrological applications.
 
+[![EGU27 HS3.8 call for abstracts](https://jorub.github.io/egu27-hs3-8-precip-et-dataset-for-hydrology/downloads/egu27-hs38-linkedin.png)](https://jorub.github.io/egu27-hs3-8-precip-et-dataset-for-hydrology/)
 
-Here are some of my recent publications:
-- **Multi-source comparison of recent terrestrial evapotranspiration trends:
-Introducing a topology framework**, 2026. [Read here](https://github.com/Jorub/egu2026-et-topology-framework)
-- **"evapoRe: An R-based application for exploratory data analysis of evapotranspiration?**, Published in **Environmental Modelling & Software**, 2026. [Read here](10.1016/j.envsoft.2026.106884) [Package here](https://cran.r-project.org/web/packages/evapoRe/index.html) 
-- **"Which Precipitation Dataset to Choose for Hydrological Studies of the Terrestrial Water Cycle?**, Published in **Bulletin of the American Meteorological Society**, 2025. [Read here](10.1175/BAMS-D-24-0306.1) [Code here](https://github.com/imarkonis/ithaca/tree/main/projects/uncertainty_prec) [Data can be obtained through pRecipe R package via the download_data() function](https://cran.r-project.org/web/packages/pRecipe/index.html) 
-- **"Unveiling the impact of potential evapotranspiration method selection on trends in hydrological cycle components across Europe"**, Published in *Hydrology and Earth System Science*, 2025. [Read here](https://doi.org/10.5194/hess-29-4395-2025) [Data and Code here](https://doi.org/10.5281/zenodo.14008649)
-- **"Spatial partitioning of terrestrial precipitation reveals varying dataset agreement across different environments"** - Published in *Communications Earth & Environment*, 2024. [Read here](https://doi.org/10.1038/s43247-024-01377-9) [Code here](https://github.com/imarkonis/ithaca/tree/main/projects/partition_evap) [Data here](https://zenodo.org/records/10836849)
-- **"Validating Coupled Flow Theory for Bare-Soil Evaporation Under Different Boundary Conditions"** - Published in *Vadose Zone Journal*, 2023. [Read here](https://doi.org/10.1002/vzj2.20277) [Lab data here](https://doi.org/10.24355/dbbs.084-202308301744-0.) 
+[Session information and outreach materials](https://jorub.github.io/egu27-hs3-8-precip-et-dataset-for-hydrology/) · [Official EGU session](https://meetingorganizer.copernicus.org/EGU27/session/61787)
 
-## Research Focus
-- **Terrestrial Water Cycle** Investigating agreement and disagreement of gridded data around the world. Check out project ITHACA [code here](https://github.com/imarkonis/ithaca) and [website here](https://yannismarkonis.wordpress.com/ithaca/)
-- **Soil Physics:** Investigating complex processes from soil evaporation to preferential flow. [1](10.1002/vzj2.20277)[2](10.1016/j.catena.2023.107231)[3](10.1029/2020WR028513)[4](10.1016/j.advwatres.2019.103394)
-- **Data Analysis:** Utilizing advanced statistical methods and data visualization techniques for meaningful insights into natural hazards. [5](10.5194/nhess-22-3501-2022)[6](https://doi.org/10.1016/j.jhydrol.2021.127002)[7](10.1016/j.scitotenv.2022.156304)[8](10.1016/j.scitotenv.2021.151805)[9](10.1016/j.geoderma.2021.114945)
-- **Environmental Modeling:** Using and developing numerical models to simulate and analyze coupled water and heat flow in soil. [10](10.1016/j.advengsoft.2022.103278)[11](10.1016/j.jhydrol.2018.12.045)
+### New ESSD preprint
 
-Want more? ORCID: 0000-0002-8796-2151
+**Agreement, opposition, and dataset influence in global evapotranspiration trends.** *Earth System Science Data Discussions*, 2026.
 
-## Let's Connect!
-- Contact me: bloecher [at] fzp.czu.cz
-- LinkedIn: [Johanna R Thomson](www.linkedin.com/in/johanna-thomson-hydroclimate)
-- ResearchGate: [Johanna R Thomson](https://www.researchgate.net/profile/Johanna-Thomson)
+[Preprint](https://doi.org/10.5194/essd-2026-334) · [Dataset](https://doi.org/10.5281/zenodo.19843461) · [Code](https://github.com/Jorub/ithaca/tree/main/projects/trend_evap)
 
+## Recent publications
 
-Feel free to reach out if you're interested in collaborative research, discussions about soil physics, hydrology, or data analysis methodologies.  🌱🔬💧
+- **evapoRe: An R-based application for exploratory data analysis of evapotranspiration.** *Environmental Modelling & Software*, 2026. [Article](https://doi.org/10.1016/j.envsoft.2026.106884) · [R package](https://cran.r-project.org/package=evapoRe)
+- **Which precipitation dataset to choose for hydrological studies of the terrestrial water cycle?** *Bulletin of the American Meteorological Society*, 2025. [Article](https://doi.org/10.1175/BAMS-D-24-0306.1) · [Code](https://github.com/imarkonis/ithaca/tree/main/projects/uncertainty_prec) · [pRecipe](https://cran.r-project.org/package=pRecipe)
+- **Unveiling the impact of potential evapotranspiration method selection on trends in hydrological cycle components across Europe.** *Hydrology and Earth System Sciences*, 2025. [Article](https://doi.org/10.5194/hess-29-4395-2025) · [Data and code](https://doi.org/10.5281/zenodo.14008649)
+- **Spatial partitioning of terrestrial precipitation reveals varying dataset agreement across different environments.** *Communications Earth & Environment*, 2024. [Article](https://doi.org/10.1038/s43247-024-01377-9) · [Data](https://zenodo.org/records/10836849)
+- **Validating coupled flow theory for bare-soil evaporation under different boundary conditions.** *Vadose Zone Journal*, 2023. [Article](https://doi.org/10.1002/vzj2.20277) · [Laboratory data](https://doi.org/10.24355/dbbs.084-202308301744-0)
+
+## Research focus
+
+- **Hydroclimate data:** Evaluating gridded evapotranspiration and precipitation products and diagnosing agreement, disagreement, and uncertainty. See the [ITHACA code](https://github.com/imarkonis/ithaca) and [project overview](https://yannismarkonis.wordpress.com/ithaca/).
+- **Soil physics:** Investigating soil evaporation, preferential flow, and coupled water, vapour, and heat transport.
+- **Environmental data analysis:** Applying statistical validation, machine learning, geospatial analysis, and scientific visualization to hydrological and environmental questions.
+- **Reproducible research:** Developing traceable R-based workflows, reusable data products, and open scientific software.
+
+## Projects and tools
+
+- [AI Reading Pitches](https://jorub.github.io/ai-reading-pitches/) — an evolving, interactive literature-review workspace with structured paper pitches, filters, timeline and institution views, and Markdown/BibTeX export.
+- [evapoRe](https://cran.r-project.org/package=evapoRe) — an R package for exploratory analysis of evapotranspiration datasets.
+- [Research website](https://jorub.github.io/johanna_thomson_hydroclimate/) — publications, research themes, projects, and CV.
+
+## Connect
+
+- [ORCID](https://orcid.org/0000-0002-8796-2151)
+- [LinkedIn](https://www.linkedin.com/in/johanna-thomson-hydroclimate)
+- [ResearchGate](https://www.researchgate.net/profile/Johanna-Thomson)
+- Email: bloecher [at] fzp.czu.cz
